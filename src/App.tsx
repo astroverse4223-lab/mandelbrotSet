@@ -1,4 +1,4 @@
-import React, { useState, useCallback } from 'react';
+import { useState, useCallback } from 'react';
 import { MandelbrotRenderer } from './components/MandelbrotRenderer';
 import { ControlPanel } from './components/ControlPanel';
 import { HUD } from './components/HUD';
